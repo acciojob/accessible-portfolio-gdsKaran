@@ -1,2 +1,30 @@
 
 /* Your CSS Code here. */
+/* Your CSS Code here */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  color: darkblue;
+}
+
+nav ul {
+  display: flex;
+  gap: 20px;
+  list-style-type: none;
+  padding: 0;
+}
+
+nav a {
+  text-decoration: none;
+  color: darkgreen;
+  font-weight: bold;
+}
+
+img {
+  margin: 20px 0;
+  border-radius: 50%;
+  border: 3px solid black;
+}
